@@ -32,7 +32,6 @@ I love to develop new skills, and I will try to share a piece of it here.
 ## My GitHub's stats 📊
 <div>
   <a href="https://github.com/beatrizbranfb">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatrizbranfb&show_icons=true&theme=panda"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizbranfb&layout=compact&theme=panda"/>
 </div> 
 

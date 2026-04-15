@@ -9,8 +9,8 @@ I love to develop new skills, and I will try to share a piece of it here.
 ## My skills ☝️
 - Speak Portuguese native, English advanced, Spanish and Germany intermediary.
 - Data analytics
-- RAG for LLM
-- Langchain
+- ML
+- RAG
 - Used to develop games with C# as a hobby
 
 ### Programming languages that I use
@@ -24,8 +24,6 @@ I love to develop new skills, and I will try to share a piece of it here.
   <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-
-
     
 </div>    
 
